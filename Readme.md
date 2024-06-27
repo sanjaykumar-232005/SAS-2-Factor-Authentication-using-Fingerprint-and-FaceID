@@ -49,7 +49,7 @@ Download the shape_predictor_68_face_landmarks.dat file from dlib's model reposi
 ## Usage
 #### Run the application
 ```bash
-python3 SAS 2FA.py
+python3 SAS-2FA.py
 ```
 
 ## Authentication Process
