@@ -15,7 +15,7 @@ SAS (Secure Authentication System) is a project designed to enhance authenticati
 ## Requirements
 - Python
 - MySQL Server
-- shape_predictor_68_face_landmarks.dat file
+- [shape_predictor_68_face_landmarks.dat file](https://github.com/italojs/facial-landmarks-recognition/blob/d37b6a7426e98094e28fa99254e270a3e9b6d591/shape_predictor_68_face_landmarks.dat)
 - Tkinter
 - CSV
 - NumPy
@@ -25,7 +25,6 @@ SAS (Secure Authentication System) is a project designed to enhance authenticati
 - Python Pillow
 - Installation
 - Clone the repository
-[shape_predictor_68_face_landmarks.dat file]: https://github.com/italojs/facial-landmarks-recognition/blob/d37b6a7426e98094e28fa99254e270a3e9b6d591/shape_predictor_68_face_landmarks.dat
 
 ## Installation
 
