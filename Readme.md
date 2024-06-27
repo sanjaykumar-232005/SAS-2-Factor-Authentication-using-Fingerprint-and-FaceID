@@ -30,14 +30,14 @@ SAS (Secure Authentication System) is a project designed to enhance authenticati
 
 #### 1. Clone the repository:
 
-   '''bash
-https://github.com/sanjaykumar-232005/SAS-2-Factor-Authentication-using-Fingerprint-and-FaceID.git
+   ```bash
+git clone https://github.com/sanjaykumar-232005/SAS-2-Factor-Authentication-using-Fingerprint-and-FaceID.git
 cd SAS-2-Factor-Authentication-using-Fingerprint-and-FaceID
-'''
+```
 #### 2. Install required Python packages
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 #### 3. Download the shape predictor file
 Download the shape_predictor_68_face_landmarks.dat file from dlib's model repository and extract it into the project directory.
 
@@ -48,9 +48,9 @@ Download the shape_predictor_68_face_landmarks.dat file from dlib's model reposi
 
 ## Usage
 #### Run the application
-bash'''
+```bash
 python3 SAS 2FA.py
-''''
+```
 
 ## Authentication Process
 
